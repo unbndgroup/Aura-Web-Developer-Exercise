@@ -1,8 +1,8 @@
 # Aura Web Developer Exercise 
 
-Please clone or fork the repo to commit and push your changes
+Please clone or fork this repository to commit and push your changes
 
-This interview containes two coding exercises described below. Please feel free to contact us l.monaghan@thisisaura.com if any of the questions or instructions are unclear
+This exercise containes two coding exercises described below. Please feel free to contact us l.monaghan@thisisaura.com if any of the questions or instructions are unclear
 
 ## Exercise 1
 
