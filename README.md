@@ -2,7 +2,7 @@
 
 Please clone or fork this repository to commit and push your changes
 
-This exercise containes two coding exercises described below. Please feel free to contact us l.monaghan@thisisaura.com if any of the questions or instructions are unclear
+This exercise containes two coding exercises described below. Feel free to contact us l.monaghan@thisisaura.com or a.chalmers@thisisaura.com if any of the questions or instructions are unclear.
 
 ## Exercise 1
 
@@ -31,7 +31,7 @@ Feel free to use WebGL or three.js or any other web 3D framework. Use of three.j
 
 ## Finish
 
-Once the application has been written, please email at l.monaghan@thisisaura.com
+Once the application has been written, please email at l.monaghan@thisisaura.com a.chalmers@thisisaura.com and j.murchie@thisisaura.com with a link to the repository and any related documentation or information.
 
 ## Submission format
 Preferred option is a link to public git repository with your solution. Alternatively a [git-bundle](https://git-scm.com/docs/git-bundle) or zip archive are acceptable.
