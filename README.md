@@ -1,12 +1,12 @@
-# Unbnd Web Developer Interview
+# Aura Web Developer Exercise 
 
 Please clone or fork the repo to commit and push your changes
 
-This interview containes two coding exercises described below. Please feel free to contact us luke@unbnd.com.au if any of the questions or instructions  are unclear
+This interview containes two coding exercises described below. Please feel free to contact us l.monaghan@thisisaura.com if any of the questions or instructions are unclear
 
 ## Exercise 1
 
-Recreate the [ThisIsAura](https://thisisaura.com/) landing page for the Unbnd Aura website. Feel free to use your creativity and imagination to produce a cohesive design.
+Recreate the [ThisIsAura](https://thisisaura.com/) landing page for the Aura website. Feel free to use your creativity and imagination to produce a cohesive design.
 
 ### Requirements
 - We are interested in simplicity and your command of front-end development languages rather than libraries and frameworks. However, you may use any HTML/CSS/JS library or - framework.
@@ -31,7 +31,7 @@ Feel free to use WebGL or three.js or any other web 3D framework. Use of three.j
 
 ## Finish
 
-Once the application has been written, please email at luke@unbnd.com.au
+Once the application has been written, please email at l.monaghan@thisisaura.com
 
 ## Submission format
 Preferred option is a link to public git repository with your solution. Alternatively a [git-bundle](https://git-scm.com/docs/git-bundle) or zip archive are acceptable.
