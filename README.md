@@ -33,8 +33,8 @@ Feel free to use WebGL or three.js or any other web 3D framework. Use of three.j
 Finish
 Once the application has been written, continue with the following additions:
 
-Write a clear and understandable README which explains your application.
-Email using the submission format along with any further related information.
+- Write a clear and understandable README which explains your application.
+- Email using the submission format along with any further related information.
 
 ## Submission format
 Preferred option is a link to public git repository with your solution. Alternatively a [git-bundle](https://git-scm.com/docs/git-bundle) or zip archive are acceptable.
