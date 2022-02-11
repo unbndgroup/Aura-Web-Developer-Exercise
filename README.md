@@ -6,11 +6,10 @@ This exercise contains two coding exercises described below.
 
 ## Exercise 1
 
-Recreate the [ThisIsAura](https://thisisaura.com/) landing page for the Aura website. Feel free to use your creativity and imagination to produce a cohesive design.
+Create the webapp(https://www.figma.com/file/3nRk10nUSO8DqVBAKPYQDE/Frontend-Exercise)
 
 ### Requirements
 - We are interested in simplicity and your command of front-end development languages rather than libraries and frameworks. However, you may use any HTML/CSS/JS library or - framework.
-- Please use your judgement to make this page responsive. Simpler versions of elements on mobile is ok.
 - You may use a CSS framework if you like, but extra consideration will be given if you can showcase your command of simple media queries. Bonus points for exampling a "mobile first" approach.
 
 ## Exercise 2
